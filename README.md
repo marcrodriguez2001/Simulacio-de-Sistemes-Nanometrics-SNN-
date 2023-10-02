@@ -1,1 +1,2 @@
 # Simulacio-de-Sistemes-Nanometrics-SNN-
+"Simulació de Sistemes Nanomètrics is an elective course in the fourth year of the Nanoscience and Nanotechnology program at UAB. The objective of this course is to be able to use the main computational simulation methods applied to nanometric systems and to understand the possibilities and limitations of each technique. In this repository, you will find all the code from each session of the SNN course."
